@@ -29,7 +29,7 @@
     {
       "name": "API Reference",
       "url": "api-reference",
-      "openapi": "https://propdf.fly.dev/openapi",
+      "openapi": "https://propdf.fly.dev/openapi"
     }
   ],
   "anchors": [
